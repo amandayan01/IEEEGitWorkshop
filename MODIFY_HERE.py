@@ -4,5 +4,6 @@ def hello():
     # TO DO: Add your name / a message here!
     print("Amanda's demo message!")
     print("Third demo message")
+    print("Second demo message")
 
 hello()
