@@ -6,6 +6,9 @@ def hello():
     print("Third demo message")
     print("Second demo message")
     print("Hellur")
-
-    print("Hii")
 hello()
+
+print("hey")
+def goodbye():
+    while(True):
+        print("Goodbye. Come again!")
