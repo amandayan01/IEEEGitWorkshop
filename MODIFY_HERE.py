@@ -5,6 +5,14 @@ def hello():
     print("Amanda's demo message!")
     print("Third demo message")
     print("Second demo message")
+    print("Sam Demo message")
+
+
     print("Hellur")
     print("Navya is the EE GOAT")
 hello()
+
+print("hey")
+def goodbye():
+    while(True):
+        print("Goodbye. Come again!")
