@@ -5,6 +5,7 @@ def hello():
     print("Amanda's demo message!")
     print("Third demo message")
     print("Second demo message")
-    print("Hello, I am Bryan")
+    print("Hellur")
 
+    print("Hii")
 hello()
