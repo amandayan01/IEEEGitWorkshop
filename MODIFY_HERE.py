@@ -7,4 +7,11 @@ def hello():
     print("Second demo message")
     print("Sam Demo message")
 
+
+    print("Hellur")
 hello()
+
+print("hey")
+def goodbye():
+    while(True):
+        print("Goodbye. Come again!")
